@@ -1,4 +1,4 @@
-echo off
+@echo off
 
 echo BSOD Made by RustyLegacy01 On Github!
 echo CC License
